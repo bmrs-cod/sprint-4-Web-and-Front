@@ -212,7 +212,7 @@ A solução demonstra o conceito do Modo Estudante e não representa uma integra
 
 ## 14. Entrega
 
-Projeto desenvolvido para a Sprint 4 das disciplinas Front-End Design e Web Development da FIAP.
+Projeto desenvolvido para a Sprint 4 das disciplinas Front-End Design e Web Development
 
 A entrega conjunta inclui o código-fonte, o arquivo README.md, o arquivo INTEGRANTES.txt e os demais arquivos necessários para executar a aplicação.
 
